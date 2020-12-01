@@ -1,3 +1,3 @@
-print("Hello world!")
-print("will this ever work")
+my_string = "this is a string"
+print my_string
 
