@@ -1,3 +1,3 @@
-print("my_string")
-print("my_string")
+a = "DINGL"
+print a
 
