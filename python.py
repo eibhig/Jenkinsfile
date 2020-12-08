@@ -1,4 +1,5 @@
 import datetime
+print("Morning!")
 print("Hello world!")
 now = datetime.datetime.now()
 print ("Current date and time is ")
